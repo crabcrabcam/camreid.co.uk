@@ -12,8 +12,11 @@ body
 </style>
 </head>
 <body>
+<div style = "position: absolute; left: 30%; right:30%">
 <center>
-<p font-size: "10">
+<a href="home.html">Home</a>
+<p style = "font-size: 10; background-color:gray;">
+<font face="Comic Sans MS", cursive, sans-serif>
 <b>
 <!-- Once upon a midnight dreary, as I porn surfed weak and weary -->
 <font color="blue">O</font><font color="aqua">n</font><font color="lime">c</font><font color="lime">e</font><font color="fuchsia"> </font>
@@ -98,11 +101,15 @@ body
 <font color="gold">t</font><font color="blue">h</font><font color="aqua">e</font><font color="lime"> </font>
 <font color="lime">s</font><font color="fuchsia">e</font><font color="fuchsia">r</font><font color="gold">v</font><font color="gold">e</font><font color="blue">r</font><font color="aqua">.</font><font color="lime">.</font><font color="lime">.</font>
 </b>
+</center>
+</div>
 <br />
 
+<div style = "position: absolute; top: 30%; left: 48%;">
+<center>
 <!-- 404 -->
 <h1 font-family: "Comic Sans MS", cursive, sans-serif>404</h1>
-
+</div>
 </center>
 </body>
 </html>
